@@ -5,5 +5,5 @@ setup(
    version='1.0',
    description='A module to draw snowflakes',
    author='Rodrigo Carbajo',
-   packages=['snowflake', 'snowflake.let_it_snow'],
+   packages=['snowflake'],
 )
